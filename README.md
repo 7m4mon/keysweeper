@@ -1,5 +1,4 @@
  KeySweeper, by Samy Kamkar
- Dec 23, 2014
 
  modefied by 7M4MON for Japanese Keyboard
  
@@ -11,9 +10,8 @@
 
  The fifth byte of device ID on my keyboard is not 0xCD, but 0xCF.
  
- Samy's 0xCD (English).
- 
- Horiai's 0xCE (Japanese).  
+ *Samy's 0xCD (English).
+ *Horiai's 0xCE (Japanese).  
  
  So, I modefied conditional expression "(p[4] == 0xCD) || (p[4] == 0xCE) ||(p[4] == 0xCF)"
 
