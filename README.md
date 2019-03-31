@@ -3,7 +3,7 @@
 
  modefied by 7M4MON for Japanese Keyboard
  
- https://github.com/7m4mon/keysweeper/blob/master/KeySweeperCF_1.jpg
+ ![](https://github.com/7m4mon/keysweeper/blob/master/KeySweeperCF_1.jpg)
  
  KeySweeperCF
  
