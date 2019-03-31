@@ -7,7 +7,7 @@
 
  The fifth byte of device ID on my keyboard is not 0xCD, but 0xCF.
  Samy's 0xCD (English).
- Horiai's 0xCE (Japanese).   https://www.slideshare.net/codeblue_jp/by-code-blue-2015-59669683
+ Horiai's 0xCE (Japanese).  
  So, I modefied conditional expression "(p[4] == 0xCD) || (p[4] == 0xCE) ||(p[4] == 0xCF)"
 
  * Tuning to 2427
