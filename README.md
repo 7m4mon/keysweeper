@@ -25,5 +25,6 @@ It was connected to MCP23017 by I2C, and DP by GPIO.
 
 So, I modefied hidcodes.h to hidcodes_jp.h
 
+For more information:http://nomulabo.com/KeySweeperCF/
 
  Thank you.
