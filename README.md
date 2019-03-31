@@ -14,13 +14,6 @@
  * Horiai's 0xCE (Japanese).  
  
  So, I modefied conditional expression "(p[4] == 0xCD) || (p[4] == 0xCE) ||(p[4] == 0xCF)"
-
-
- * Tuning to 2427
- * Potential keyboard: A9 22 D1 9D CF 22 5 1C 
- * KEYBOARD FOUND! Locking in on channel 27
- * 2setupRadio
- *    8: 0A 38  01 F0  B2 00  00 8E          //UP
  
 
  I attached 16 segment LED for display keystroke, 
